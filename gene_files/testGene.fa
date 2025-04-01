@@ -1,0 +1,12 @@
+>GENE1 ENSE00002719959 exon:protein_coding
+CCTCGGA
+>GENE1 ENSE00002719959 exon:protein_coding
+GGTACCAG
+>GENE1 intron 1:protein_coding
+AATTTTTTGC
+>GENE1 intron 2:protein_coding
+TTTTGCACAC
+
+
+>11 dna:chromosome chromosome:GRCh38:11:117285648:117316306:-1
+CCTGGGCTATTGC

@@ -1,0 +1,48 @@
+{
+    "transcripts": [
+        {
+            "sequence": "GGGGGGGTGGC",
+            "reversed": false,
+            "complementary": false,
+            "name": "testGene1",
+            "exons": [
+                {
+                    "sequence": "AGGGCG",
+                    "reversed": false,
+                    "complementary": false,
+                    "number": 1
+                }
+            ],
+            "introns": [
+                {
+                    "sequence": "GTTCGCGC",
+                    "reversed": false,
+                    "complementary": false,
+                    "number": 1
+                }
+            ]
+        },
+        {
+            "sequence": "AAAAATACAC",
+            "reversed": false,
+            "complementary": false,
+            "name": "testGene2",
+            "exons": [
+                {
+                    "sequence": "GACTAC",
+                    "reversed": false,
+                    "complementary": false,
+                    "number": 1
+                }
+            ],
+            "introns": [
+                {
+                    "sequence": "ATTTGG",
+                    "reversed": false,
+                    "complementary": false,
+                    "number": 1
+                }
+            ]
+        }
+    ]
+}
